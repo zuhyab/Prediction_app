@@ -1,0 +1,8 @@
+pandas
+customtkinter
+scikit-learn
+pyresparser
+nltk
+spacy
+pdfminer.six
+docx2txt
